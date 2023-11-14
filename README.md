@@ -9,4 +9,8 @@ Resturant POS Reference link:- https://youtu.be/5IdpIsQ0fiI?si=JILlZhLM0WDl7XEj
 <br>
 Resgistration and Login form Reference link:- https://youtu.be/8ZNdxr7py7Y?si=T4sGFo3cmDK8JzGS
 <br>
+XAMPP server for localhost Download link:- https://www.apachefriends.org/download.html
+<br>
+MySql Connector download File link:- https://drive.google.com/file/d/1_r9MZ7d295PdUt4za3GjXuGJnlQlVJLk/view
+<br>
 If you like my project then follow me on insta:- https://www.instagram.com/_kumar_gourav__/
