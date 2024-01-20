@@ -1,5 +1,5 @@
 # Restaurant-Point-Of-Sale-in-ASP.NET
-Elevate restaurant management with "Code Space Restaurant 🍽️"! 🚀 This C# project offers a seamless Point of Sale experience, simplifying orders and inventory. Contribute to the future of dining technology by pushing this project to GitHub. 🌐💻 #OpenSource #RestaurantPOS
+This Restaurant management with "Code Space Restaurant 🍽️"! 🚀 This C# project offers a seamless Point of Sale experience, simplifying orders and inventory. Contribute to the future of dining technology by pushing this project to GitHub. 🌐💻 #OpenSource #RestaurantPOS
 <br>
 <br>
 NOTE:- This project is totally based on ASP.NET Windows Form Application (C#). This project is connected with XAMPP server(localhost), so first of all you have to dowload the XAMPP file then install it. Then you have to need MySql connector for C#, it was easily available in google, download it then connect it ( Solution Explorer > References > Add References > Select the My Sql Connector File > Click OK ).
